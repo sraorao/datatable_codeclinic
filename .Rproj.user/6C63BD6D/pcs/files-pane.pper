@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/datatable_code_clinic",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

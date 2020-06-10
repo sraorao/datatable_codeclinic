@@ -1,0 +1,5 @@
+"0","babynames_df[babynames_df$year == 1880]
+"
+"2","Error in `[.data.frame`(babynames_df, babynames_df$year == 1880) : 
+  undefined columns selected
+"

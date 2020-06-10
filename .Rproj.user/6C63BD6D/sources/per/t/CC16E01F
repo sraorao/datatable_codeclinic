@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591354465722.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "486485170",
+    "id" : "CC16E01F",
+    "lastKnownWriteTime" : 1591711628,
+    "last_content_update" : 1591781971238,
+    "path" : "~/Documents/datatable_code_clinic/code.Rmd",
+    "project_path" : "code.Rmd",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
