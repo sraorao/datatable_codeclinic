@@ -240,7 +240,7 @@ Making long tables wide using `dcast`
 formula: LHS ~ RHS
 
 - `.` represents **no variable**
-- `...` represents **all other variables not explicitly mentioned in LHS or RHS
+- `...` represents **all other variables not explicitly mentioned in LHS or RHS**
 
 Let's first make a new data.table that summarises the total number of individuals by the first letter of their name and the year of birth:
 ```{r}
